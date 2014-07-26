@@ -13,3 +13,5 @@ Tools:
 pi caculus
   Join-calculus
   spi
+sha standard
+rsa
