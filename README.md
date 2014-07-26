@@ -2,6 +2,7 @@ bc
 ==
 
 Bio-Cryptography
+http://qparticle.wordpress.com/bio-cryptography/
 
 As devices become integrated into our biology, we need new ways to secure these systems
 
