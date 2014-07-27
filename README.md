@@ -15,3 +15,4 @@ pi caculus
   spi
 sha standard
 rsa
+data compression: http://mattmahoney.net/dc/dce.html
